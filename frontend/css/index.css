@@ -1,6 +1,7 @@
-.logo-container { 
-    border: color red;
+.logo { 
+    border: color rgb(0, 0, 0);
     width: 100px; 
     margin: 10px; 
-    border-radius: 10px
+    border-radius: 100px
+    
 }
